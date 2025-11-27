@@ -1,7 +1,7 @@
 {
     "name": "@nickyonge/duckpond-js",
     "version": "0.1.0",
-    "description": "Collection of JS scripts used by Duck Pond Studio",
+    "description": "Collection of scripts used by Duck Pond Studio",
     "main": "src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
